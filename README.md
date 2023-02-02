@@ -1,56 +1,75 @@
-### Hi there 👋
-
-<!--
-**Islamomar-1/islamomar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <html>
   <head>
-    <title>Weather App</title>
+    <title>Calculator</title>
+    <style>
+      /* Add some styling for the calculator */
+      .calculator {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+      }
+
+      .display {
+        background-color: lightgray;
+        width: 300px;
+        height: 50px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 0 10px;
+        font-size: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      }
+
+      .buttons {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 10px;
+      }
+
+      .btn {
+        background-color: white;
+        border: 1px solid gray;
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        cursor: pointer;
+        border-radius: 10px;
+      }
+    </style>
   </head>
   <body>
-    <h1>Weather App</h1>
-    <form>
-      <label for="city">Enter a city:</label>
-      <input type="text" id="city" name="city">
-      <button type="button" onclick="getWeather()">Get Weather</button>
-    </form>
-    <div id="weather-output"></div>
-
+    <div class="calculator">
+      <div class="display" id="display"></div>
+      <div class="buttons">
+        <div class="btn" onclick="appendDisplay('7')">7</div>
+        <div class="btn" onclick="appendDisplay('8')">8</div>
+        <div class="btn" onclick="appendDisplay('9')">9</div>
+        <div class="btn" onclick="performOperation('/')">&divide;</div>
+        <div class="btn" onclick="appendDisplay('4')">4</div>
+        <div class="btn" onclick="appendDisplay('5')">5</div>
+        <div class="btn" onclick="appendDisplay('6')">6</div>
+        <div class="btn" onclick="performOperation('*')">&times;</div>
+        <div class="btn" onclick="appendDisplay('1')">1</div>
+        <div class="btn" onclick="appendDisplay('2')">2</div>
+        <div class="btn" onclick="appendDisplay('3')">3</div>
+        <div class="btn" onclick="performOperation('-')">-</div>
+        <div class="btn" onclick="appendDisplay('0')">0</div>
+        <div class="btn" onclick="appendDisplay('.')">.</div>
+        <div class="btn" onclick="performOperation('=')">=</div>
+        <div class="btn" onclick="performOperation('+')">+</div>
+      </div>
+    </div>
+    
     <script>
-      function getWeather() {
-        const city = document.querySelector("#city").value;
-        const weatherOutput = document.querySelector("#weather-output");
-        
-        fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=YOUR_API_KEY`)
-          .then(response => response.json())
-          .then(data => {
-            const { main, name } = data;
-            const { temp, feels_like, temp_min, temp_max } = main;
-            
-            weatherOutput.innerHTML = `
-              <h2>Weather in ${name}</h2>
-              <p>Temperature: ${temp} &#8451;</p>
-              <p>Feels Like: ${feels_like} &#8451;</p>
-              <p>Min. Temperature: ${temp_min} &#8451;</p>
-              <p>Max. Temperature: ${temp_max} &#8451;</p>
-            `;
-          })
-          .catch(error => {
-            console.error(error);
-            weatherOutput.innerHTML = "<p>An error has occurred. Please try again.</p>";
-          });
-      }
-    </script>
-  </body>
-</html>
+      let displayValue = "0";
+      let firstValue = null;
+      let operator = null;
+      let waitingForSecondValue = false;
+      
+      const display = document.querySelector("
