@@ -1,7 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/IslamOmarQML/IslamOmarQML/main/assets/qml-banner.jpeg" alt="Quantum Machine Learning - The Next Big Thing" width="100%" />
-
 <details>
   <summary><strong>🧬 Quantum-Aided Drug Discovery</strong></summary>
   <br>
