@@ -4,18 +4,20 @@
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" alt="Workspace" /><br> 
 
 <details>
-  <summary><strong>🎧 Research + Music = Productivity</strong></summary>
+  <summary><strong>🧬 Quantum-Aided Drug Discovery</strong></summary>
   <br>
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing"/>
-  </a>
+  As we enter the era of practical quantum computing, my work explores how hybrid quantum-classical models 
+  can accelerate the identification of drug candidates, optimize molecular structures, and simulate quantum 
+  effects in biological systems. By integrating QML and quantum chemistry, we aim to reduce both cost and time 
+  in the drug discovery pipeline — targeting protein folding, binding affinities, and ligand generation using 
+  quantum variational approaches.
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IslamOmarQML&style=flat&color=blueviolet&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIslamOmarQML&count_bg=%236A1B9A&title_bg=%232C3E50&icon=atom.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/islam-omar1/)
-[![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=orcid)](https://orcid.org/my-orcid?orcid=0000-0001-7849-5726)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/islam-omar1/)
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=orcid)](https://orcid.org/0000-0001-7849-5726)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hUNjR3UAAAAJ&hl=en)
 
 </div>
@@ -36,7 +38,8 @@ I specialize in **Quantum Machine Learning (QML)**, designing **hybrid quantum-c
 - 🧠 Information-theoretic learning theory (classical + quantum)  
 - 🔧 Near-term (NISQ) quantum computing frameworks  
 - 🧭 Complexity-theoretic foundations of QML  
-- 🧱 Robust, scalable architectures for noisy quantum hardware
+- 🧱 Robust, scalable architectures for noisy quantum hardware  
+- 💊 Quantum-enhanced molecular modeling & drug discovery  
 
 ---
 
