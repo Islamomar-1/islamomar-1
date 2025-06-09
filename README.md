@@ -4,65 +4,84 @@
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" alt="Workspace" /><br> 
 
 <details>
-  <summary><strong>🎧 Coding while vibing to:</strong></summary>
+  <summary><strong>🎧 Research + Music = Productivity</strong></summary>
   <br>
   <a href="https://open.spotify.com/">
     <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing"/>
   </a>
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=QuantumDev&style=flat&color=blueviolet&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuantumDev&count_bg=%239B59B6&title_bg=%232C3E50&icon=codeforces.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=IslamOmarQML&style=flat&color=blueviolet&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIslamOmarQML&count_bg=%236A1B9A&title_bg=%232C3E50&icon=atom.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=orcid)](https://orcid.org/your-id)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourID)
 
 </div>
 
 ---
 
-### 🧠 About Me
+## 👨‍🔬 About Me
 
-I am a researcher focused on advancing **Quantum Machine Learning (QML)** as a scientific discipline. My work blends **quantum computing**, **statistical learning theory**, and **optimization** to develop hybrid algorithms with provable advantages.
+### Hi, I’m **Islam Omar**, a Quantum Computing Researcher & Theoretical ML Scholar
 
-- 🔬 Exploring **quantum kernel methods**, **variational circuits**, & **quantum generative models**  
-- 🧮 Investigating **computational complexity** and **representational power** in QML  
-- 🛠 Designing scalable, **noise-resilient architectures** for **NISQ-era** quantum devices  
-- 📚 Bridging **quantum information** and **classical learning theory**
+I specialize in **Quantum Machine Learning (QML)**, designing **hybrid quantum-classical algorithms** to push the frontiers of learning theory and quantum advantage. My academic journey integrates quantum theory, statistical learning, and algorithmic complexity.
+
+### 🔍 Current Interests
+
+- ✨ Quantum kernel methods & generalization bounds  
+- ⚛️ Variational Quantum Algorithms (VQAs)  
+- 🧬 Quantum generative & diffusion models  
+- 🧠 Information-theoretic learning theory (classical + quantum)  
+- 🔧 Near-term (NISQ) quantum computing frameworks  
+- 🧭 Complexity-theoretic foundations of QML  
+- 🧱 Robust, scalable architectures for noisy quantum hardware
 
 ---
 
-### 🛠 Tools & Technologies
+## 🛠️ Researcher Toolkit
+
+### 🧪 Core Libraries
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=Qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-ee3057?style=flat&logoColor=white)
+![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow_Q-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Jax](https://img.shields.io/badge/JAX-007FFF?style=flat&logo=Google&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-3f4f8f?style=flat&logo=python&logoColor=white)
+
+### 🧰 Additional Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat&logo=Qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-ee3057?style=flat&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3f4f8f?style=flat&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4063D8?style=flat&logo=matplotlib)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy)
+![SymPy](https://img.shields.io/badge/SymPy-4C61B6?style=flat&logo=sympy)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
+
+---
+
+## 🧠 Code & Research Focus
 
 ```python
-# Tools_I_use organized
-class QuantumResearcher:
+class IslamOmar:
     def __init__(self):
-        self.research_focus = [
-            "Quantum Kernel Methods",
-            "Variational Quantum Circuits",
-            "Quantum Generative Models"
+        self.title = "Advanced Quantum ML Researcher"
+        self.research_domains = [
+            "Quantum Machine Learning",
+            "Hybrid Algorithms",
+            "Quantum Information Theory",
+            "Statistical Learning Theory",
+            "Computational Complexity"
         ]
-        self.theory = [
-            "Computational Complexity",
-            "Representation Theory",
-            "Quantum Statistical Learning Theory"
+        self.libraries_used = [
+            "Qiskit", "PennyLane", "TensorFlow Quantum", "QuTiP", "Jax"
         ]
-        self.practical_skills = [
-            "NISQ Devices", "Hybrid Algorithms", "Noise Resilience"
-        ]
-        self.libraries = [
-            "Qiskit", "PennyLane", "PyTorch", "TensorFlow", "Jax"
-        ]
+        self.skills = {
+            "Programming": ["Python", "Bash", "C++", "Matlab"],
+            "Frameworks": ["QML", "VQA", "Quantum Kernels", "Quantum GANs"],
+            "Theory": ["PAC Learning", "Generalization Theory", "Quantum Advantage"]
+        }
