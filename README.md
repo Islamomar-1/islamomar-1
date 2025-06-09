@@ -14,9 +14,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=IslamOmarQML&style=flat&color=blueviolet&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIslamOmarQML&count_bg=%236A1B9A&title_bg=%232C3E50&icon=atom.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=orcid)](https://orcid.org/your-id)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/islam-omar1/)
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=orcid)](https://orcid.org/my-orcid?orcid=0000-0001-7849-5726)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hUNjR3UAAAAJ&hl=en)
 
 </div>
 
