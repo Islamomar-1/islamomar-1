@@ -1,7 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="60%" alt="Hello Coders" /> <br>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" alt="Workspace" /><br> 
 
 <details>
   <summary><strong>🧬 Quantum-Aided Drug Discovery</strong></summary>
